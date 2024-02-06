@@ -1,0 +1,49 @@
+{
+    "Press":[
+    {"0":"1===Famous Quotes "},
+    {"1":"2===Quotes for today"}
+    ],
+    "Press_1":[
+        {"0":"1===Friendship "},
+        {"1":"2===Nature "},
+        {"2":"3===Success "},
+        {"3":"4===Positive"} ,
+        {"4":"5===Life"}                                                                                   
+    ],
+    "Press_2":[
+        {"0":"H.O.P.E: Have Only Positive Expectations."}  
+    ],
+    "Press_1_1":[
+        {"0":"Friends are like stars, they come and go, but the ones that stay are the ones that glow!!!!"},
+        {"1":"True friends are never apart. Maybe in distance, but not in heart."},
+        {"2":"A friend is someone who gives you total freedom to be yourself."},
+        {"3":"Good Friends Are Hard to Find, Difficult to Leave, Impossible to Forget."},
+        {"4":"A brother may not be a friend, but a friend will always be a brother."},
+        {"5":"Friendship is the only cement that will hold the world together"}
+    ],
+    "Press_1_2":[
+        {"0":" Self-preservation is the first law of nature.- Samuel Butler"},
+        {"1":"Be truthful, nature only sides with truth.- Adolf Loos"},
+        {"2":"A good river is natures life work in song"}
+    ],
+    "Press_1_3":[
+        {"0":"Successful people are not gifted; they just work hard, then succeed on purpose.- G. K. Nielson "},
+        {"1":"Success is a journey, not a destination.- Ben Sweetland"},
+        {"2":"Success and failure are both part of life. Both are not permanent.- Shahrukh Khan"},
+        {"3":"A life of success and achievement is a direct result of utilizing the power of positive thinking."}
+    ],
+    "Press_1_4":[
+        {"0":"Every time you subtract negative from your life, you make room for more positive"},
+        {"1":" Always turn a negative situation into a positive situation.- Michael Jordan"} ,
+        {"2":"H.O.P.E: Have Only Positive Expectations."} ,
+        {"3":"Stay strong, be positive. We all struggle sometimes."},
+        {"4":"The most important thing is to stay positive.- Saku Koivu"}
+    ],
+    "Press_1_5":[
+        {"0":"Every story has an end, but in life every ending is just a new beginning"},
+        {"1":"Never stop learning, because life never stops teaching."},
+        {"2":"You have to fight through some bad days to earn the best days of your life"},
+        {"3":"Always choose the right path and speak the truth."},
+        {"4":"A good life is a collection of happy moments."}
+    ]
+    }
